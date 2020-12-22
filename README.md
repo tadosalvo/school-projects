@@ -1,2 +1,3 @@
-# java-projects
-Projects that are written in Java.
+# school-projects
+
+Programming projects done for class.
